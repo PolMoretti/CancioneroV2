@@ -3,11 +3,11 @@
     "titulo": "Adorar",
     "artista": "alejandro del bosque",
     "contenido": [
-      "G                                    D        Em",
+      "G       D       Em",
       "Adorar, es todo en mi vida, bendecirte es la pasión",
-      "D                G                   C",
+      "D       G       C",
       "que arde en mi corazón",
-      "G                              Am                          D",
+      "G       Am      D",
       "Agradarte es mi gran deseo, es mi gran anhelo"
     ]
   },
@@ -24,18 +24,3 @@
     ]
   }
 ]
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
-}
