@@ -1,0 +1,41 @@
+{[
+  {
+    "titulo": "Adorar",
+    "artista": "alejandro del bosque",
+    "contenido": [
+      "G                                    D        Em",
+      "Adorar, es todo en mi vida, bendecirte es la pasión",
+      "D                G                   C",
+      "que arde en mi corazón",
+      "G                              Am                          D",
+      "Agradarte es mi gran deseo, es mi gran anhelo"
+    ]
+  },
+  {
+    "titulo": "Il ballo delle incertezze",
+    "artista": "Ultimo",
+    "contenido": [
+      "G       D       Em       C",
+      "Ho perso tempo per guardarmi dentro",
+      "G       D       C",
+      "Mischiando il tuo sorriso",
+      "D       C",
+      "Le mie lacrime"
+    ]
+  }
+]
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
